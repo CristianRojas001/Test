@@ -1,0 +1,6 @@
+app = "receipt-inbox"      # must be unique; change if Fly later complains
+primary_region = "mad"
+
+[env]
+N8N_HOST    = "receipt-inbox.fly.dev"
+WEBHOOK_URL = "https://receipt-inbox.fly.dev/"
