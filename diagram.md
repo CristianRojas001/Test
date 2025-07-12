@@ -1,3 +1,4 @@
+'''
 graph TD
     %% Main trigger and file download
     A["🔄 Google Drive Trigger<br/>Monitor for new files"] --> B["📥 Download Binary<br/>Get file from Drive"]
@@ -64,3 +65,4 @@ graph TD
     style AA fill:#ff5722,stroke:#bf360c,stroke-width:3px,color:#fff
     style BB fill:#424242,stroke:#212121,stroke-width:2px,color:#fff
     style Z fill:#4caf50,stroke:#2e7d32,stroke-width:3px,color:#fff
+'''
